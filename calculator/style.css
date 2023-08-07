@@ -5,7 +5,7 @@ html {
   width: 100%;
   font-family: 'Roboto', sans-serif;
   font-family: 'Ubuntu', sans-serif;
-  background-color: brown;
+  background-color: rgb(162, 159, 159);
 }
 
 .button {
@@ -18,7 +18,7 @@ html {
 
 }
 
-.buttons{
+.buttons {
   width: 151px;
   padding: 20px;
   margin: 0 3px;
@@ -26,6 +26,7 @@ html {
   border-radius: 9px;
   cursor: pointer;
 }
+
 .row {
   margin: 8px 0;
 }
